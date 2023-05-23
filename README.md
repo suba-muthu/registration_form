@@ -2,7 +2,6 @@
 
 * It is basic html and css project.
 
-<<<<<<< HEAD
 ## Tools used
 
 * HTML
@@ -23,9 +22,7 @@
 * textarea element - defines a multi-line text input control.
 * The textarea element is often used in a form, to collect user inputs like comments or reviews.
 * input[type="submit"] - It is a one of the selecter. It is used to style the input element type of submit.
-=======
-Learning: 
-    I learned how to use the input elements in different types.
-    
-Protection Link: registration-form-lyart.vercel.app
->>>>>>> 5f6fa78b033307af211e3ce5cc1fe5c56982353d
+
+## Production Link 
+
+https://registration-form-lyart.vercel.app/
